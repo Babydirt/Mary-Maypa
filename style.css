@@ -1,0 +1,45 @@
+body {
+  margin:0;
+  background-color:#FEFEFE;
+}
+.nav{
+  background-color:#3C5898;
+  text-align:center;
+  padding:2px 10%;
+  color:whitesmoke;
+  font-family: 'Noto Sans', sans-serif;
+  text-shadow: 2px 1.5px 4px #000000;
+}
+.cover{
+  padding:0px 5px;
+}
+h1{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.b{
+  position:relative;
+  left:5px;
+  
+}
+.b1{
+  position:relative;
+  padding:0px 0px;
+  top:4px;
+  left:3px;
+}
+input{
+  background-color:#EDEDED;
+  border:none;
+  border-radius:10px;
+  width:270px;
+  height:40px;
+  position:relative;
+  padding:0px 0px;
+  left:60px;
+}
+.icon1 img{
+  border-radius:50%;
+  position:relative;
+  left:10px;
+  top:590px;
+}
